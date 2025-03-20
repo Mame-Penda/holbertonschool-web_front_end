@@ -57,12 +57,17 @@ a:link {
 a:visited {
     font-size: italic;
 }
+
 a:hover {
     text-decoration: underline;
 }
 
 a:active {
     background-color: var(--color-light-grey);
+}
+
+.visually-hidden {
+    color: none;
 }
 
 .section-header {
