@@ -16,9 +16,9 @@ a {
 }
 
 .card-category {
-    --color-primary: #d73953;
+    color: var(--color-primary);
 }
 
 .section-tagline {
-    --color-primary: #d73953;
+    color: var(--color-primary);
 }
