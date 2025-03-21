@@ -208,7 +208,7 @@ a:active {
 }
 
 .card-work:hover .card-inner {
-    background-color: rgba(0, 0, 0, 0.5);
+    background-color: rgba(0, 0, 0, 0.7);
 }
 
 .card-work .card-title {
