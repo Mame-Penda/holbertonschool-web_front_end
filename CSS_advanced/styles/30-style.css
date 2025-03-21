@@ -212,8 +212,8 @@ a:active {
 }
 
 .card-work .card-title {
-    margin: 0;
     text-align: center;
+    margin: 0;
     opacity: 0;
     height: 100%;
     position: relative;
